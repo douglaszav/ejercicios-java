@@ -28,7 +28,7 @@
 
 * Strings
     - Formateo, parsing
-    - Clases String, StringBuffer y StringBuilder
+    - Clases string, StringBuffer y StringBuilder
 
 * Collections
     - Interfaz Set y clases implementandolas
