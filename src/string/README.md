@@ -1,10 +1,9 @@
 # Ejercicios Java
 
 ## Realización de ejercicios sobre los siguientes temas:
-* Asignaciones
-    - Asignaciones, widening, cast
-    - Clases envoltorio y boxing
-    - Comparación de tipos nativos, comparación de clases envoltorio
+* Strings
+    - Formateo, parsing
+    - Clases string, StringBuffer y StringBuilder
 
 ## Las tecnologías utilizadas en el curso fueron:
 ```

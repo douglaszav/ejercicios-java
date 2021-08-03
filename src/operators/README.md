@@ -1,10 +1,10 @@
 # Ejercicios Java
 
 ## Realización de ejercicios sobre los siguientes temas:
-* Asignaciones
-    - Asignaciones, widening, cast
-    - Clases envoltorio y boxing
-    - Comparación de tipos nativos, comparación de clases envoltorio
+* Operadores en java
+    - Asignación, compuestos, relacionales, de igualdad e instanceof
+    - Resta, concatenador, de incremento o decremento
+    - Ternario, lógicos, equals
 
 ## Las tecnologías utilizadas en el curso fueron:
 ```
