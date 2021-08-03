@@ -1,4 +1,4 @@
-package access_control;
+package inner_classes;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

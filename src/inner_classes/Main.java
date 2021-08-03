@@ -1,4 +1,4 @@
-package access_control;
+package inner_classes;
 
 import javax.swing.JFrame;
 import javax.swing.JPanel;

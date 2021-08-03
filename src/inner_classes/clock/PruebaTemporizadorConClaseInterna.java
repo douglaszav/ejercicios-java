@@ -1,4 +1,4 @@
-package access_control.clock;
+package inner_classes.clock;
 
 import javax.swing.*;
 
