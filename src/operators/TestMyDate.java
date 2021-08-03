@@ -18,14 +18,10 @@ public class TestMyDate {
         } else {
             System.out.println("m1 is not equal to m2");
         }
-        
-        try {
-            if (m3.equals(m1) || m3.equals(m2)) {
-                System.out.println("m3 is equal to m1 or m2");
-            } else {
-                System.out.println("m3 is not equal to m1 or m2");
-            }
-        } catch (Exception e) {
+
+        if (m1.equals(m3) || m2.equals(m3)) {
+            System.out.println("m3 is equal to m1 or m2");
+        } else {
             System.out.println("m3 is not equal to m1 or m2");
         }
     }
@@ -37,6 +33,7 @@ class MyDate{
     private int year;
 
     public MyDate(int day, int month, int year) {
+        super();
         this.day = day;
         this.month = month;
         this.year = year;
